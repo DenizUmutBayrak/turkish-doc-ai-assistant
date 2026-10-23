@@ -1,0 +1,12 @@
+[theme]
+base = "light"
+primaryColor = "#4F46E5"
+backgroundColor = "#F8F7F4"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#182230"
+font = "sans serif"
+blueColor = "#0F766E"
+greenColor = "#15803D"
+orangeColor = "#B45309"
+redColor = "#B91C1C"
+grayColor = "#667085"
